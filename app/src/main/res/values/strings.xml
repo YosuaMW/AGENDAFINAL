@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AGENDA</string>
+    <string name="login">Login</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="agenda_title_hint">Agenda Title</string>
+    <string name="agenda_time_hint">Time</string>
+    <string name="add_agenda">Add Agenda</string>
+</resources>
